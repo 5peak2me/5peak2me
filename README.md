@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![J!nl!n's github stats](https://github-readme-stats.vercel.app/api?username=5peak2me)](https://github.com/5peak2me)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5peak2me&layout=compact&hide=html)
