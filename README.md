@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## 📱 OS:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
+![macOS](https://img.shields.io/badge/mac%20Os-white?style=for-the-badge&logo=apple&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![iOS](https://img.shields.io/badge/iOS-white?style=for-the-badge&logo=ios&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=3DDC84)
 
 ## 💻 Tech Stack:
