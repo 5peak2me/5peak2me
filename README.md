@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## 📱 OS:
 <!--
-![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20Os-white?style=for-the-badge&logo=apple&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![iOS](https://img.shields.io/badge/iOS-white?style=for-the-badge&logo=ios&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=3DDC84)
 -->
-<img align="left" alt="shashank | pub" width="24px" src="https://cdn.simpleicons.org/windows10/00adef" />
+<img align="left" alt="shashank | pub" width="24px" src="https://img.icons8.com/?size=100&id=TuXN3JNUBGOT&format=png&color=000000" />
 <img align="left" alt="shashank | pub" width="24px" src="https://cdn.simpleicons.org/apple" />
 <img align="left" alt="shashank | pub" width="24px" src="https://cdn.simpleicons.org/ubuntu/e95420" />
 <img align="left" alt="shashank | pub" width="24px" src="https://cdn.simpleicons.org/ios" />
